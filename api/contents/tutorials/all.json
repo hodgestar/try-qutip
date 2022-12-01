@@ -1,0 +1,85 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-12-01T14:41:08.754282Z",
+      "format": null,
+      "last_modified": "2022-12-01T14:41:08.754282Z",
+      "mimetype": null,
+      "name": "pulse-level-circuit-simulation",
+      "path": "tutorials/pulse-level-circuit-simulation",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-01T14:41:08.754282Z",
+      "format": null,
+      "last_modified": "2022-12-01T14:41:08.754282Z",
+      "mimetype": null,
+      "name": "python-introduction",
+      "path": "tutorials/python-introduction",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-01T14:41:08.766282Z",
+      "format": null,
+      "last_modified": "2022-12-01T14:41:08.766282Z",
+      "mimetype": null,
+      "name": "time-evolution",
+      "path": "tutorials/time-evolution",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-01T14:41:08.758282Z",
+      "format": null,
+      "last_modified": "2022-12-01T14:41:08.758282Z",
+      "mimetype": null,
+      "name": "quantum-circuits",
+      "path": "tutorials/quantum-circuits",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-01T14:41:08.750282Z",
+      "format": null,
+      "last_modified": "2022-12-01T14:41:08.750282Z",
+      "mimetype": null,
+      "name": "lectures",
+      "path": "tutorials/lectures",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-01T14:41:08.770282Z",
+      "format": null,
+      "last_modified": "2022-12-01T14:41:08.770282Z",
+      "mimetype": null,
+      "name": "visualization",
+      "path": "tutorials/visualization",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2022-12-01T14:41:08.770282Z",
+  "format": "json",
+  "last_modified": "2022-12-01T14:41:08.770282Z",
+  "mimetype": null,
+  "name": "tutorials",
+  "path": "tutorials",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
